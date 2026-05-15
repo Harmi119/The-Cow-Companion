@@ -1,1 +1,1 @@
-This Website contains 22 diffrent cow breed information , There hospital details in diffrent states of india also included what Cow should eat wat to not , This is gdg Hackathon project about cow conversation.
+This Website contains 22 diffrent cow breed information , There hospital details in diffrent states of india also included what Cow should eat what to not , This is gdg Hackathon project about cow conversation.
