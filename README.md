@@ -1,2 +1,1 @@
-# The-Cow-Companion
-Here is a MVP of our website name The Cow Companion
+This Website contains 22 diffrent cow breed information , There hospital details in diffrent states of india also included what Cow should eat wat to not , This is gdg Hackathon project about cow conversation.
